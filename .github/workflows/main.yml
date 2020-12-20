@@ -8,5 +8,5 @@ jobs:
     steps:
       -uses: actions/checkout@1
       -uses: ./action-a
-        with:
-          MY_NAME: "MDJDOT"
+      with:
+        MY_NAME: "MDJDOT"
